@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Ana Luiza Oliveira! 👋
 
-<!--
-**alofreitas/alofreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Graduanda em Ciência da Computação (UESC) | Desenvolvedora Full-Stack
 
-Here are some ideas to get you started:
+Sou apaixonada por transformar ideias em código e construir interfaces modernas. Atualmente, foco no ecossistema JavaScript/TypeScript, mas também transito com facilidade pelo back-end com Python e SQL. Acredito que código escalável e uma boa comunicação são a base de qualquer projeto de sucesso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Minhas Especialidades
+
+- **Front-end:** React, Vue.js e Angular.
+- **Back-end:** Python, Node.js e integração com bancos de dados SQL.
+- **Linguagens:** TypeScript, JavaScript, Python e C (em projetos acadêmicos).
+- **Foco:** Interfaces responsivas, clean code e trabalho colaborativo.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alofreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alofreitas&layout=compact&langs_count=7&theme=dark" />
+</div>
+
+---
+
+## 📫 Vamos nos conectar?
+
+- 📧 E-mail: aninha17361@gmail.com
+- 💼 LinkedIn: linkedin.com/in/ana-luiza-oliveira-de-freitas
